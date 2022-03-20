@@ -1,7 +1,7 @@
 {
-  "name": "⚡Skyzu-Userbot⚡",
-  "description": "🚫Skyzu-Userbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/fd08937c4ae6cb1303731.jpg",
+  "name": "Bii-Userbot☕",
+  "description": "✖️Bii Userbot✖️ USERBOT KEKINIAN HANYA UNTUK HAVING FUN ON TELEGRAM.",
+  "logo": "https://telegra.ph/file/dca7a99b787c28d95a2d7.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
 ],
-  "repository": "https://github.com/Skyzu/skyzu-userbot",
-  "telegram": "https://t.me/skyzu",
-  "success_url": "https://t.me/skyzusupport",
+  "repository": "https://github.com/wibii95/Bii-UserBot",
+  "telegram": "https://t.me/lowbii",
+  "success_url": "https://t.me/sexlineid",
   "stack": "container",
   "env": {
     "API_KEY": {
